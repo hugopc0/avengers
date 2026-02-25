@@ -2,7 +2,7 @@
 
 * Black panther
 * Black Widow
-* Capitán America
+* Capitán Americagit
 * Falcon
 * Hank Pym
 * Hawkeye
@@ -16,4 +16,4 @@
 * Vision
 * Wasp
 * Antman
-* Capitan Salami
+* Capitan Salami el mejor superheroe
